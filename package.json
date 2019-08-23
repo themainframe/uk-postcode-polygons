@@ -1,0 +1,27 @@
+{
+  "name": "uk-postcode-polygons",
+  "version": "1.0.0",
+  "description": "A dump of the UK postcode polygons from wikipedia in KML and GeoJSON format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themainframe/uk-postcode-polygons.git"
+  },
+  "keywords": [
+    "uk",
+    "postcode",
+    "polygons",
+    "kml",
+    "geojson",
+    "wikipedia"
+  ],
+  "author": "Wikipedia Contributors",
+  "license": "CC-BY-SA-3.0",
+  "bugs": {
+    "url": "https://github.com/themainframe/uk-postcode-polygons/issues"
+  },
+  "homepage": "https://github.com/themainframe/uk-postcode-polygons#readme"
+}
